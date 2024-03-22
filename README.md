@@ -54,6 +54,15 @@ This project was developed by Mohammed Idriss. Contributions from the community 
 
 
 
+
+
+
+
+
+
+
+
+
 Readme for the Finance Calculator.
 Description
 The Finance Calculator is a Python script designed to perform financial calculations related to investments and bond repayments. It offers functionalities for calculating both simple and compound interest on investments, as well as determining the monthly repayment amount for a bond. This project is valuable for individuals and financial professionals alike, providing quick and accurate calculations for financial planning and decision-making.
